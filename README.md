@@ -7,6 +7,8 @@
 - Careers
 - Blogs
 - Safety
+- Press
+- Contact
 
 ## Technologies Used
 - HTML
